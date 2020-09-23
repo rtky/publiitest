@@ -1,13 +1,48 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "blank",
+    "title": "test",
     "description": "",
     "home_page_url": "https://rtky.github.io/publiitest",
     "feed_url": "https://rtky.github.io/publiitest/feed.json",
     "user_comment": "",
+    "icon": "https://rtky.github.io/publiitest/media/website/pexels-photo-1656579.jpeg",
     "author": {
         "name": "me"
     },
     "items": [
+        {
+            "id": "https://rtky.github.io/publiitest/post2.html",
+            "url": "https://rtky.github.io/publiitest/post2.html",
+            "title": "post2",
+            "summary": " Hello Peppu const a = 1;const b = 2;This is simple paragraph ",
+            "content_html": "\n    <h2 id=\"hello-peppu\">\n      Hello Peppu\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://rtky.github.io/publiitest/media/posts/2/pexels-photo-4609300.jpeg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://rtky.github.io/publiitest/media/posts/2/responsive/pexels-photo-4609300-xs.jpeg 300w ,https://rtky.github.io/publiitest/media/posts/2/responsive/pexels-photo-4609300-sm.jpeg 480w ,https://rtky.github.io/publiitest/media/posts/2/responsive/pexels-photo-4609300-md.jpeg 768w\"  height=\"625\" width=\"500\" alt=\"\" />\n      \n    </figure>\n<pre class=\"line-numbers  language-html\"><code>const a = 1;\nconst b = 2;</code></pre>\n<div><p>This is simple paragraph</p></div>\n\n  <p>\n    \n  </p>",
+            "image": "https://rtky.github.io/publiitest/media/posts/2/pexels-photo-1433052.jpeg",
+            "author": {
+                "name": "me"
+            },
+            "tags": [
+                   "water",
+                   "swimming"
+            ],
+            "date_published": "2020-09-23T17:27:33+09:00",
+            "date_modified": "2020-09-23T17:27:33+09:00"
+        },
+        {
+            "id": "https://rtky.github.io/publiitest/post-1.html",
+            "url": "https://rtky.github.io/publiitest/post-1.html",
+            "title": "post 1",
+            "summary": " Hello Peppu~ ",
+            "content_html": "\n    <h2 id=\"hello-peppu\">\n      Hello Peppu~\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://rtky.github.io/publiitest/media/posts/1/pexels-photo-289262.jpeg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://rtky.github.io/publiitest/media/posts/1/responsive/pexels-photo-289262-xs.jpeg 300w ,https://rtky.github.io/publiitest/media/posts/1/responsive/pexels-photo-289262-sm.jpeg 480w ,https://rtky.github.io/publiitest/media/posts/1/responsive/pexels-photo-289262-md.jpeg 768w\"  height=\"750\" width=\"500\" alt=\"\" />\n      \n    </figure>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--center\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1433052.jpeg\" data-size=\"500x625\">\n        <img loading=\"lazy\" src=\"https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1433052-thumbnail.jpeg\" height=\"625\" width=\"500\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1656579.jpeg\" data-size=\"500x625\">\n        <img loading=\"lazy\" src=\"https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1656579-thumbnail.jpeg\" height=\"625\" width=\"500\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-4609300.jpeg\" data-size=\"500x625\">\n        <img loading=\"lazy\" src=\"https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-4609300-thumbnail.jpeg\" height=\"625\" width=\"500\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://rtky.github.io/publiitest/media/posts/1/pexels-photo-3768577.jpeg",
+            "author": {
+                "name": "me"
+            },
+            "tags": [
+                   "swimming",
+                   "pp"
+            ],
+            "date_published": "2020-09-23T17:27:33+09:00",
+            "date_modified": "2020-09-23T17:27:33+09:00"
+        }
     ]
 }

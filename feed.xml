@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>blank</title>
+    <title>test</title>
     <link href="https://rtky.github.io/publiitest/feed.xml" rel="self" />
     <link href="https://rtky.github.io/publiitest" />
     <updated>1970-01-01T09:00:00+09:00</updated>
@@ -9,4 +9,96 @@
     </author>
     <id>https://rtky.github.io/publiitest</id>
 
+    <entry>
+        <title>post2</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://rtky.github.io/publiitest/post2.html"/>
+        <id>https://rtky.github.io/publiitest/post2.html</id>
+            <category term="water"/>
+            <category term="swimming"/>
+
+        <updated>2020-09-23T17:27:33+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rtky.github.io/publiitest/media/posts/2/pexels-photo-1433052.jpeg" alt="" />
+                     Hello Peppu const a = 1;const b = 2;This is simple paragraph 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rtky.github.io/publiitest/media/posts/2/pexels-photo-1433052.jpeg" alt="" />
+                
+    <h2 id="hello-peppu">
+      Hello Peppu
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://rtky.github.io/publiitest/media/posts/2/pexels-photo-4609300.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://rtky.github.io/publiitest/media/posts/2/responsive/pexels-photo-4609300-xs.jpeg 300w ,https://rtky.github.io/publiitest/media/posts/2/responsive/pexels-photo-4609300-sm.jpeg 480w ,https://rtky.github.io/publiitest/media/posts/2/responsive/pexels-photo-4609300-md.jpeg 768w"  height="625" width="500" alt="" />
+      
+    </figure>
+<pre class="line-numbers  language-html"><code>const a = 1;
+const b = 2;</code></pre>
+<div><p>This is simple paragraph</p></div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post 1</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://rtky.github.io/publiitest/post-1.html"/>
+        <id>https://rtky.github.io/publiitest/post-1.html</id>
+            <category term="swimming"/>
+            <category term="pp"/>
+
+        <updated>2020-09-23T17:27:33+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rtky.github.io/publiitest/media/posts/1/pexels-photo-3768577.jpeg" alt="" />
+                     Hello Peppu~ 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rtky.github.io/publiitest/media/posts/1/pexels-photo-3768577.jpeg" alt="" />
+                
+    <h2 id="hello-peppu">
+      Hello Peppu~
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://rtky.github.io/publiitest/media/posts/1/pexels-photo-289262.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://rtky.github.io/publiitest/media/posts/1/responsive/pexels-photo-289262-xs.jpeg 300w ,https://rtky.github.io/publiitest/media/posts/1/responsive/pexels-photo-289262-sm.jpeg 480w ,https://rtky.github.io/publiitest/media/posts/1/responsive/pexels-photo-289262-md.jpeg 768w"  height="750" width="500" alt="" />
+      
+    </figure>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1433052.jpeg" data-size="500x625">
+        <img loading="lazy" src="https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1433052-thumbnail.jpeg" height="625" width="500" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1656579.jpeg" data-size="500x625">
+        <img loading="lazy" src="https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-1656579-thumbnail.jpeg" height="625" width="500" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-4609300.jpeg" data-size="500x625">
+        <img loading="lazy" src="https://rtky.github.io/publiitest/media/posts/1/gallery/pexels-photo-4609300-thumbnail.jpeg" height="625" width="500" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
 </feed>
